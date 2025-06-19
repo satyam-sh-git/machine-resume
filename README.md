@@ -17,10 +17,13 @@ This notebook demonstrates graph creation using random data and plotting with Ma
 
 ### Techinical skills
 **Language :** Python
+
 **Platform :** Jupyter Notebook
+
 **Motivation :** Academic exploration focused on training models for analytical tasks.
 
 
 ### LICENCE
 **LICENCE  :** **MIT LICENCE** 
+
 **NOTE  :**  This project is open for public use and knowledge. If it helps you in any way, feel free to use it. :>
