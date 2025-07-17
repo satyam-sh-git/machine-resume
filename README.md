@@ -14,6 +14,17 @@ This one is a fun ML logic model where the notebook takes weather conditions as 
 ## 3. Graphs and Plotting (graphs.ipynb)
 This notebook demonstrates graph creation using random data and plotting with Matplotlib. It covers procedural generation of values, midpoint highlights, labeled points, and line plotting. It’s a clean example of how to visualize data dynamically using NumPy and Matplotlib in Python. great example- use in game industry or entertainment to quickly generate high quality content using code like minecraft world everthing is procedurally render using a blueprint known as Seed of world  crazy :)
 
+### 4. Recommendation system from 5000 movie (movie_recommendation.ipynb + [Movie Dataset used](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata))
+In this project, I built a **Tag-Based Movie Recommendation System**.  
+Each movie is represented using combined tags (from genres, cast, crew and overview). **simple and earlier approach**
+
+I used **NLP techniques** like stemming and vectorization to process the tags.  
+Then, I calculated **cosine similarity** to find and recommend the top 5 closest movies based on content.  
+This allows the system to suggest similar movies effectively without using user ratings or behavior.
+
+2 libraries you may install like **nltk and ast** rest of them you might already have  
+
+
 
 ### Techinical skills
 **Language :** Python
